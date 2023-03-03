@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gabriel Gonzalez</h1>
+
 - 🔭 I’m currently working on **building my own GitHub portfolio**
 
 - 🌱 I’m currently learning **Machine Learning**
